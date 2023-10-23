@@ -18,5 +18,6 @@
 ## 6. Comprobación de los datos del data frame
 ## 7. Reordenación de columnas según el objetivo 
 ## 8. Limpieza de los datos por COLUMNA:
-      ### 8.1. Limpieza columna 'Country'
+      ## 8.1. Limpieza columna 'Country'
+            - jasldvfowuhs
 
